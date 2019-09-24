@@ -326,7 +326,7 @@ $( "#tags" ).autocomplete({
       document.getElementById(`btn-${btnNum}`).onclick = () => {
   
         // Tell her what she's won!
-        alert(prizes[btnNum]);
+        console.log(prizes[btnNum]);
       };
     }
 
