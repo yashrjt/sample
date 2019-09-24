@@ -329,3 +329,5 @@ $( "#tags" ).autocomplete({
         alert(prizes[btnNum]);
       };
     }
+
+    console.log('git added');
