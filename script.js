@@ -330,4 +330,3 @@ $( "#tags" ).autocomplete({
       };
     }
 
-    console.log('git added');
